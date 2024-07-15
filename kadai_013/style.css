@@ -58,6 +58,11 @@ PC用のスタイル
   #nav-pc>a:active {
     color: #0d0d0d;
   }
+
+  /* スマホ用ナビを非表示 */
+  #nav-sp,#menu-sp {
+    display: none;
+  }
 }
 
 /*================
